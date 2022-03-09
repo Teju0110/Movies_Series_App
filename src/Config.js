@@ -15,6 +15,6 @@ export const noPicture =
   "https://upload.wikimedia.org/wikipedia/en/6/60/No_Picture.jpg";
 
 
-const apiKey="10d0c51c631ef0448632eede0afee80e";
+const apiKey="";
 
 export default apiKey;
